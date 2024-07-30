@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maja
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js and ASP.NET Web app with M-V-C
-- 📫 You can reach me via email maja.lojo@hotmail.com
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning React.js and ASP.NET, React Native, Node.js, Express with MongoDB including also MySQL and MSSQL
 
 <!---
 jomasarajevo/jomasarajevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
